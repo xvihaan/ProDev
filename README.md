@@ -12,3 +12,5 @@ This is a project that I developed while taking a major class.
 
 ## 🧠 Artificial Intellengece
 1. 딥러닝 역전오류파 알고리즘 구현 (backpropagation algorithm)
+2. 구름 영상 검수 Classification 기능 구현 (cloudy image classification)
+3. GeoTIFF 영상 판독 Segmentation 기능 구현 (GeoTIFF image Segmentation)
